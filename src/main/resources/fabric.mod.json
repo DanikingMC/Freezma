@@ -4,13 +4,13 @@
   "version": "${version}",
 
   "name": "Freezma",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "Makes snowballs slow down mobs.",
   "authors": [
     "DaniK1ngRD"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://www.curseforge.com/members/danik1ngrd/projects",
+    "sources": "https://github.com/DanikingMC/Freezma"
   },
 
   "license": "GNU General Public License",
